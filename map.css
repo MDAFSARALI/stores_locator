@@ -1,0 +1,25 @@
+#map{
+    background-color: #111;
+    height: 100vh;
+    width: 100vw;
+}
+#stores h1 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 5vh;
+    padding-bottom: 10vh;
+    text-align: center;
+    width: 80vw;
+    margin: auto;
+}
+#stores iframe{
+    background-color: #fff;
+    height: 100vh;
+    width: 100vw;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
